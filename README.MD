@@ -10,3 +10,9 @@ congratulations!!!
 
 start practice again
 ok will do it
+
+### squash
+adding few lines in code
+adding 2nd line in code
+still development is going on
+development is completed
