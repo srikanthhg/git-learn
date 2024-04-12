@@ -16,3 +16,6 @@ adding few lines in code
 adding 2nd line in code
 still development is going on
 development is completed
+
+### conflict
+I am developer-1 adding lines of code here
