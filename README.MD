@@ -21,5 +21,9 @@ development is completed
 I am developer-1 adding lines of code here
 still adding few lines of code developer-1
 I am developer-2 adding few lines of code here
+<<<<<<< HEAD
 now it is completed
+=======
+still i am adding few  lines from developer -2
+>>>>>>> 23182cf (commit-2 from developer-2)
 
