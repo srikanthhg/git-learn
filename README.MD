@@ -20,3 +20,4 @@ development is completed
 ### conflict
 I am developer-1 adding lines of code here
 still adding few lines of code developer-1
+now it is completed
